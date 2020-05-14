@@ -1,0 +1,19 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "simple node app ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ranababu1/mern.git"
+  },
+  "author": "Imraan",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
